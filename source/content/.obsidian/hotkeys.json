@@ -1,0 +1,12 @@
+{
+  "workspace:undo-close-pane": [],
+  "language-translator:language-translator-editor-command": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ]
+}
