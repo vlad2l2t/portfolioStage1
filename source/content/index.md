@@ -1,7 +1,3 @@
 ---
-title: My GitHub Pages Notebook!
+title: Stage 1ere année - Vladimir Vallotton
 ---
-
-Hello world!
-
-Write some words here!
